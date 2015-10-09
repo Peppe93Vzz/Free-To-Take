@@ -28,7 +28,7 @@ namespace Free_To_Take_WCF
     public class CompositeType
     {
         bool boolValue = true;
-        string stringValue = "Hello ";
+        string stringValue = "Prova ";
 
         [DataMember]
         public bool BoolValue
